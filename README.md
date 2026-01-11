@@ -5,7 +5,7 @@
 ### 1. Clone & Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/learning-app-backend.git
+git clone https://github.com/adityakhule15/learning-app-backend.git
 cd learning-app-backend
 
 # Create virtual environment
